@@ -7,7 +7,8 @@ build/
 backend/datasets/
 backend/venv/
 backend/paw_sense_bckend/uploads/
-
+frontend/vcf/src/Components/Teams.jsx
+frontend/vcf/src/Pages/TeamSelectionPage.jsx
 # environment variables
 .env
 .env.local
