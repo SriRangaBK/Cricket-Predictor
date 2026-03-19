@@ -22,7 +22,6 @@ export default function Home() {
                     <Card title="Real Time Analytics" desc="Get access to live match statistics and performance analytics to make informed predictions." />
             </div>
             </div>
-
         </div>
         </>
     )

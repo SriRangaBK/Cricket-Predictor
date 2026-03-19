@@ -1,0 +1,211 @@
+{
+  "RCB": {
+    "name": "Royal Challengers Bengaluru",
+    "players": [
+      "Virat Kohli",
+      "Rajat Patidar",
+      "Phil Salt",
+      "Devdutt Padikkal",
+      "Jitesh Sharma",
+      "Venkatesh Iyer",
+      "Krunal Pandya",
+      "Tim David",
+      "Jacob Bethell",
+      "Romario Shepherd",
+      "Josh Hazlewood",
+      "Bhuvneshwar Kumar",
+      "Nuwan Thushara",
+      "Yash Dayal",
+      "Suyash Sharma"
+    ]
+  },
+
+  "SRH": {
+    "name": "Sunrisers Hyderabad",
+    "players": [
+      "Pat Cummins",
+      "Travis Head",
+      "Abhishek Sharma",
+      "Heinrich Klaasen",
+      "Ishan Kishan",
+      "Liam Livingstone",
+      "Nitish Kumar Reddy",
+      "Harshal Patel",
+      "Jaydev Unadkat",
+      "Brydon Carse",
+      "Kamindu Mendis",
+      "Eshan Malinga",
+      "Shivam Mavi",
+      "Jack Edwards",
+      "Zeeshan Ansari"
+    ]
+  },
+
+  "CSK": {
+    "name": "Chennai Super Kings",
+    "players": [
+      "Ruturaj Gaikwad",
+      "MS Dhoni",
+      "Sanju Samson",
+      "Shivam Dube",
+      "Sarfaraz Khan",
+      "Prashant Veer",
+      "Kartik Sharma",
+      "Jamie Overton",
+      "Noor Ahmad",
+      "Khaleel Ahmed",
+      "Shreyas Gopal",
+      "Nathan Ellis",
+      "Akeal Hosein",
+      "Matt Henry",
+      "Mukesh Choudhary"
+    ]
+  },
+
+  "MI": {
+    "name": "Mumbai Indians",
+    "players": [
+      "Rohit Sharma",
+      "Hardik Pandya",
+      "Suryakumar Yadav",
+      "Tilak Varma",
+      "Will Jacks",
+      "Quinton de Kock",
+      "Sherfane Rutherford",
+      "Jasprit Bumrah",
+      "Trent Boult",
+      "Deepak Chahar",
+      "Shardul Thakur",
+      "Mitchell Santner",
+      "Mayank Markande",
+      "AM Ghazanfar",
+      "Naman Dhir"
+    ]
+  },
+
+  "KKR": {
+    "name": "Kolkata Knight Riders",
+    "players": [
+      "Ajinkya Rahane",
+      "Rinku Singh",
+      "Sunil Narine",
+      "Cameron Green",
+      "Angkrish Raghuvanshi",
+      "Ramandeep Singh",
+      "Manish Pandey",
+      "Rachin Ravindra",
+      "Tim Seifert",
+      "Matheesha Pathirana",
+      "Mustafizur Rahman",
+      "Varun Chakravarthy",
+      "Harshit Rana",
+      "Umran Malik",
+      "Rahul Tripathi"
+    ]
+  },
+
+  "GT": {
+    "name": "Gujarat Titans",
+    "players": [
+      "Shubman Gill",
+      "Sai Sudharsan",
+      "Jos Buttler",
+      "Glenn Phillips",
+      "Rahul Tewatia",
+      "Shahrukh Khan",
+      "Washington Sundar",
+      "Rashid Khan",
+      "Sai Kishore",
+      "Kagiso Rabada",
+      "Mohammed Siraj",
+      "Prasidh Krishna",
+      "Jason Holder",
+      "Kumar Kushagra",
+      "Tom Banton"
+    ]
+  },
+
+  "LSG": {
+    "name": "Lucknow Super Giants",
+    "players": [
+      "Rishabh Pant",
+      "Nicholas Pooran",
+      "Mitchell Marsh",
+      "Aiden Markram",
+      "Ayush Badoni",
+      "Wanindu Hasaranga",
+      "Mohammad Shami",
+      "Mayank Yadav",
+      "Avesh Khan",
+      "Mohsin Khan",
+      "Shahbaz Ahmed",
+      "Abdul Samad",
+      "Anrich Nortje",
+      "Matthew Breetzke",
+      "Digvesh Rathi"
+    ]
+  },
+
+  "RR": {
+    "name": "Rajasthan Royals",
+    "players": [
+      "Yashasvi Jaiswal",
+      "Riyan Parag",
+      "Ravindra Jadeja",
+      "Sam Curran",
+      "Dhruv Jurel",
+      "Shimron Hetmyer",
+      "Jofra Archer",
+      "Ravi Bishnoi",
+      "Sandeep Sharma",
+      "Tushar Deshpande",
+      "Kwena Maphaka",
+      "Nandre Burger",
+      "Donovan Ferreira",
+      "Shubham Dubey",
+      "Vaibhav Suryavanshi"
+    ]
+  },
+
+  "DC": {
+    "name": "Delhi Capitals",
+    "players": [
+      "KL Rahul",
+      "Axar Patel",
+      "Tristan Stubbs",
+      "David Miller",
+      "Nitish Rana",
+      "Karun Nair",
+      "Mitchell Starc",
+      "Kuldeep Yadav",
+      "T Natarajan",
+      "Mukesh Kumar",
+      "Pathum Nissanka",
+      "Ben Duckett",
+      "Abhishek Porel",
+      "Lungi Ngidi",
+      "Kyle Jamieson"
+    ]
+  },
+
+  "PBKS": {
+    "name": "Punjab Kings",
+    "players": [
+      "Shreyas Iyer",
+      "Prabhsimran Singh",
+      "Shashank Singh",
+      "Nehal Wadhera",
+      "Vishnu Vinod",
+      "Marcus Stoinis",
+      "Marco Jansen",
+      "Azmatullah Omarzai",
+      "Musheer Khan",
+      "Arshdeep Singh",
+      "Yuzvendra Chahal",
+      "Vyshak Vijaykumar",
+      "Xavier Bartlett",
+      "Lockie Ferguson",
+      "Harpreet Brar"
+    ]
+  }
+}

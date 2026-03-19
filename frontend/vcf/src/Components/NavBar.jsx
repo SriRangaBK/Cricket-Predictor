@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function NavBar() {
     return(
         <>
@@ -7,10 +9,10 @@ export default function NavBar() {
             </div>
             <div className="text-3xl w-full ">
             <nav className="flex gap-10 justify-evenly ">
-                <a href="#">Home</a>
+                <Link to="/">Home</Link>
                 <a href="#">Matches</a>
                 <a href="#">Leaderboards</a>
-                <a href="#">Prediction</a>
+                <Link to="/predict">Prediction</Link>
                 <a href="#">About</a>
             </nav>
             </div>
