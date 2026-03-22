@@ -5,6 +5,7 @@ import './App.css'
 import {createBrowserRouter,RouterProvider} from 'react-router-dom'
 import Home from './Pages/Home'
 import TeamSelectionPage from './Pages/TeamSelectionPage'
+import PlayingSelectionPage from './Pages/PlayingSelectionPage'
 
 function App() {
   
@@ -14,8 +15,12 @@ const router = createBrowserRouter([
     element: <Home />,
   },
   {
-    path: "/predict",
+    path: "/selectteam",
     element: <TeamSelectionPage />,
+  },
+  {
+    path: "/selectplayers",
+    element: <PlayingSelectionPage />
   }
 ])
   return (

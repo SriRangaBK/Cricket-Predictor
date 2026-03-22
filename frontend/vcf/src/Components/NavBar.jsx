@@ -12,7 +12,7 @@ export default function NavBar() {
                 <Link to="/">Home</Link>
                 <a href="#">Matches</a>
                 <a href="#">Leaderboards</a>
-                <Link to="/predict">Prediction</Link>
+                <Link to="/selectteam">Prediction</Link>
                 <a href="#">About</a>
             </nav>
             </div>
